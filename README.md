@@ -20,7 +20,7 @@
 
 ## Contributions
 - 🔥 We identify the foreground bias issue in existing VLMs and propose region-text alignment by incorporating explicit semantic structuring through category guidance. 
-- 🔥 We propose DenseVLM, a region-language alignment framework that uses a strong VLM to retrieve categories for unlabeled regions and decouples foreground and background features to reduce foreground bias. 
+- 🔥 We propose DenseVLM, a region-language alignment framework that uses a strong VLM to retrieve categories for unlabeled regions and decouples foreground and background features to reduce bias. 
 - 🔥 Extensive experiments on dense prediction benchmarks show that our DenseVLM outperforms previous methods and exhibits promising scalability.
 
 <p align="center">
