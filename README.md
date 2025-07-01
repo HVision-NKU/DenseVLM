@@ -23,9 +23,20 @@
 - 🔥 We propose DenseVLM, a region-language alignment framework that uses a strong VLM to retrieve categories for unlabeled regions and decouples foreground and background features to reduce bias. 
 - 🔥 Extensive experiments on dense prediction benchmarks show that our DenseVLM outperforms previous methods and exhibits promising scalability.
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/Foreground_bias.png" alt="Problem analysis of foreground bias." height="140" style="display: inline; margin: 0 5px;">
   <img src="assets/DenseVLM_Comparison.png" alt="Comparison of different VLMs." height="160" style="display: inline; margin: 0 5px;">
+</p> -->
+
+
+<p align="center">
+  <img src="assets/Foreground_bias.png" alt="Problem analysis of foreground bias." height="180" style="display: inline; margin: 0 5px;">
+  <img src="assets/Foreground_bias_2.png" alt="Comparison of different VLMs." height="180" style="display: inline; margin: 0 5px;">
+</p>
+
+
+<p align="center">
+  <img src="assets/DenseVLM_Comparison.png" alt="Comparison of different VLMs." height="270" >
 </p>
 
 ## Overview
