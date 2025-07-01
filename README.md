@@ -24,8 +24,8 @@
 - 🔥 Extensive experiments on dense prediction benchmarks show that our DenseVLM outperforms previous methods and exhibits promising scalability.
 
 <p align="center">
-  <img src="assets/Foreground_bias.png" alt="Problem analysis of foreground bias." height="170" style="display: inline; margin: 0 5px;">
-  <img src="assets/DenseVLM_Comparison.png" alt="Comparison of different VLMs." height="170" style="display: inline; margin: 0 5px;">
+  <img src="assets/Foreground_bias.png" alt="Problem analysis of foreground bias." height="150" style="display: inline; margin: 0 5px;">
+  <img src="assets/DenseVLM_Comparison.png" alt="Comparison of different VLMs." height="150" style="display: inline; margin: 0 5px;">
 </p>
 
 ## Overview
@@ -37,8 +37,8 @@ DenseVLM is an unsupervised fine-tuning framework for open-vocabulary dense pred
 </p>
 
 <p align="center">
-  <img src="assets/DenseVLM_Performance.png" alt="Problem analysis of foreground bias." height="190" style="display: inline; margin: 0 5px;">
-  <img src="assets/DenseVLM_Visualizations.png" alt="Comparison of different VLMs." height="190" style="display: inline; margin: 0 5px;">
+  <img src="assets/DenseVLM_Performance.png" alt="Problem analysis of foreground bias." height="150" style="display: inline; margin: 0 5px;">
+  <img src="assets/DenseVLM_Visualizations.png" alt="Comparison of different VLMs." height="150" style="display: inline; margin: 0 5px;">
 </p>
 
 
