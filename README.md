@@ -41,7 +41,7 @@
 
 ## Overview
 
-DenseVLM is an unsupervised fine-tuning framework for open-vocabulary dense prediction tasks, which retrieves region-level semantics from a powerful vision-language model and decouples foreground and background features to achieve unbiased region-language alignment and improved open-vocabulary dense prediction.
+DenseVLM is an annotation-free fine-tuning framework for open-vocabulary dense prediction tasks, which retrieves region-level semantics from a powerful vision-language model and decouples foreground and background features to achieve unbiased region-language alignment and improved open-vocabulary dense prediction.
 
 <p align="center">
   <img src="assets/DenseVLM_Overview.png" style="display: inline">
