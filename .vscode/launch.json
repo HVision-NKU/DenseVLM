@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 带参数运行",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": ["--input", "data.csv", "--output", "result.json"], // 命令行参数
+            "env": {"DEBUG": "True", "API_KEY": "your_key"}, // 环境变量
+            "justMyCode": false, // 允许调试库代码
+            "cwd": "${workspaceFolder}" // 工作目录
+        }
+    ]
+}
